@@ -1,4 +1,4 @@
-# 👋 Hi, I'm \[Your Name]! / 你好呀！
+# 👋 Hi, I'm \Sakura! / 你好呀！
 
 > A regular OIer who loves C++ coding, grinding games, reading novels, being a Hatsune Miku fan,
 
