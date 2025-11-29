@@ -1,55 +1,76 @@
-<div align="center">
+# 👋 Hi, I'm Sakura! / 你好呀！
+> A passionate OIer proficient in **C++**, **MCU embedded development**, and an avid fan of Hatsune Miku & Kenshi Yonezu. Also into gaming, sci-fi/fantasy novels, and redstone engineering in Minecraft.
+>
+> 一个热爱**C++**与**单片机嵌入式开发**的OIer，同时是初音未来和米津玄师的忠实粉丝，还痴迷于游戏、科幻玄幻小说及《我的世界》红石电路搭建。
 
-# 👋 Hi, I'm \Sakura! / 你好呀！
-
-> A regular OIer who loves C++ coding, grinding games, reading novels, being a Hatsune Miku fan,  
-> **adoring Kenshi Yonezu's music**, and **specializes in MCU development**!  
-
-一个喜欢写 C++、肝游戏、读小说、追初音未来、**爱听米津玄师的歌**，且**精通单片机开发**的普通 OIer。  
-
-*Repo status: 70% OI code drafts, 10% Minecraft redstone notes, 20% MCU study materials + Miku/Kenshi merch*
+*📌 Repo Stats: 70% OI code drafts | 10% Minecraft redstone notes | 20% MCU study materials + Miku/Kenshi merch*
+*📌 仓库状态：70% OI代码草稿 | 10% 我的世界红石笔记 | 20% 单片机学习资料 + 初音/米津周边收藏*
 
 ---
-
-</div>
 
 ## 👨‍💻 About Me / 关于我
+### Core Identity / 核心标签
+- **OI Enthusiast** / OI爱好者：C++是本命语言，深耕算法基础（DP还在疯狂刷题ing），刷题必循环Kenshi的《Lemon》
+- **MCU Developer** / 单片机开发者：精通Arduino/ESP32开发，熟练玩转传感器（DHT11/BMP280）与通信协议（I2C/SPI/UART）
+- **Multi-Fan** / 双厨狂喜：2023年入坑初音，2024年迷上米津玄师，周边堆满书桌，海报贴满墙面
+- **Leisure Geek** / 休闲玩家：红石电路爱好者（已搭建4位加法器），FPS菜鸡但爱刚枪，科幻小说重度依赖者
 
-Just a no-frills OIer with six core hobbies—coding, MCU dev, and listening to Kenshi Yonezu take up most of my free time!
+### Hobbies in Detail / 爱好详情
+<details>
+<summary>🔍 Click to expand / 点击展开</summary>
 
-<details open>
-<summary><b>✨ My Hobbies in Detail</b></summary>
+#### 🖥️ Coding / 写代码
+- **Main Language** / 主力语言：C++（Dev-C++/Red-Panda C++常驻桌面，无需查文档就能撸代码）
+- **Side Languages** / 副业语言：Python/Java/Go（仅能写小脚本，写代码时一半时间在查语法）
+- **OI Focus** / OI方向：动态规划、图论，目标是拿下更多算法竞赛奖项
 
-* **Coding**: C++ is my go-to (the only language I can write without 5+ docs tabs open 😂). Python/Java/JavaScript/Go? Barely functional—half the time I’m Googling syntax while looping Kenshi’s *Lemon*.
+#### 🛠️ MCU Development / 单片机开发
+- **Tools** / 工具：Arduino IDE（轻量化yyds）、示波器/逻辑分析仪/万用表（硬件调试三件套）
+- **Skills** / 技能：传感器集成、无线通信（NRF24L01）、OLED屏驱动
+- **Planned Projects** / 待做项目：Miku/Kenshi歌词显示屏、光感智能台灯、桌游计分器
 
-* **MCU Development**: This is my other "proficient" field! I’ve mastered the basics of Arduino/ESP32 (all coded in Arduino IDE—simple and easy to use!), like sensor integration (DHT11, BMP280) and communication protocols (I2C/SPI/UART). Still planning to turn some fun ideas into real projects (like a Miku/Kenshi-themed gadget) when I have more free time!
+#### 🎮 Gaming / 游戏日常
+- **Sandbox** / 沙盒游戏：《我的世界》红石工程师，沉迷电路搭建，下一个目标是做红石计算器
+- **FPS** / 射击游戏：Valorant（黄金段位卡2个月）、CS2（只和朋友开黑，拒绝单排内耗）
+- **RTS** / 即时战略：《星际争霸2》虫族专精，只会爆小狗+刺蛇（运营全靠随缘）
+- **Gaming BGM** / 游戏BGM：Valorant必听《M 八七》，搭红石必放《打上花火》
 
-* **Gaming**: When I’m not stuck on DP problems or practicing MCU code, I’m tweaking Minecraft redstone (built a 4-bit adder last month!) or fragging in Valorant/CS2—with Kenshi’s *M 八七* on in the background, of course.
-
-* **Reading**: Sci-fi/fantasy > short videos any day! Finished all my faves now—*Dragon Raja*, *Dao of the Bizarre Immortal*, *The Three-Body Problem*, *Dune* (still hunting for new picks, and love reading while listening to Kenshi’s slower songs like *Uchiage Hanabi*).
-
-* **Miku & Kenshi Love**: Been a Miku fan since 2023, and got into Kenshi’s music last year—his lyrics and melody are *chef’s kiss*! Have a mix of their merch: bookmarks, phone case, mug… even a Kenshi album poster on my wall.
-
+#### 📖 Reading / 阅读清单
+- **Favorite Genres** / 偏爱题材：科幻>玄幻>都市
+- **Finished Works** / 已读清单：《龙族》《道诡异仙》《三体》《沙丘》
+- **Reading BGM** / 阅读BGM：米津玄师慢歌（《アンコール》《月を追う真夜中》yyds）
 </details>
-
-<div align="center">
-<img src="https://p3-flow-imagex-sign.byteimg.com/ocean-cloud-tos/pages_upload_image_902c4d1f-5f39-45b2-8dba-cf582e229777.gif~tplv-a9rns2rl98-image-qvalue.image?rcl=20251116074328B7B77D8A452E50AC541B&rk3s=8e244e95&rrcfp=121e9355&x-expires=1794872609&x-signature=nQPOBYX0BjV6KwYKjRbXYwxVp9U%3D" alt="Miku GIF" width="80%">
 
 ---
 
-</div>
-
 ## 🚀 Tech Stack / 技术栈
+### 💪 Proficient / 精通
+| Category / 分类       | Skills / 技能                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| Programming / 编程    | C++（OI算法）、Arduino/ESP32开发、传感器数据采集、通信协议调试                |
+| Tools / 工具          | Dev-C++、Red-Panda C++、Arduino IDE、示波器、逻辑分析仪、万用表              |
+| Hardware / 硬件       | Arduino UNO/ESP32/Nano、DHT11/BMP280/BH1750、OLED屏、NRF24L01模块            |
 
+### 📚 Basic Familiarity / 略懂
+| Category / 分类       | Skills / 技能                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| Programming / 编程    | Python（数据脚本）、Java（基础语法）、Go（简单项目）、JavaScript（前端片段）  |
+| Hardware / 硬件       | PCB设计（Altium Designer双层板）、电子元件焊接（热风枪拆焊）                  |
+| Tools / 工具          | VS Code（多语言开发）、Git（版本管理）、ST-Link（STM32烧录）                 |
+
+### 🧑‍💻 Code Snippet / 代码片段
 ```cpp
-// C++ (OI) + MCU (Arduino IDE) + Miku + Kenshi = perfect coding vibe!
-
+// OI + MCU = My Perfect Coding Vibe
+// 算法 + 单片机 = 我的理想编码氛围
 #include <iostream>
-#include <Arduino.h> // My go-to for MCU dev!
+#include <Arduino.h>
 
 using namespace std;
 
 int main() {
-    cout << "My Tech Stack (OI + Embedded) — with Kenshi's music on loop!" << endl;
+    cout << "Coding with Kenshi's music on loop! 🎶" << endl;
+    // Initialize MCU sensor (example)
+    // 初始化单片机传感器（示例）
+    pinMode(A0, INPUT);
     return 0;
 }
