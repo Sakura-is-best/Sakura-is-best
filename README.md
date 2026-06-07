@@ -1,76 +1,52 @@
-# 👋 Hi, I'm Sakura! / 你好呀！
-> A passionate OIer proficient in **C++**, **MCU embedded development**, and an avid fan of Hatsune Miku & Kenshi Yonezu. Also into gaming, sci-fi/fantasy novels, and redstone engineering in Minecraft.
->
-> 一个热爱**C++**与**单片机嵌入式开发**的OIer，同时是初音未来和米津玄师的忠实粉丝，还痴迷于游戏、科幻玄幻小说及《我的世界》红石电路搭建。
+抱歉，我直接给你完整的 Markdown 源码块，复制后保存为 `.md` 文件即可。
 
-*📌 Repo Stats: 70% OI code drafts | 10% Minecraft redstone notes | 20% MCU study materials + Miku/Kenshi merch*
-*📌 仓库状态：70% OI代码草稿 | 10% 我的世界红石笔记 | 20% 单片机学习资料 + 初音/米津周边收藏*
+```markdown
+# こんにちは〜 (｡•̀ᴗ-)✧
+
+```text
+一个从县城1300名爬到前400名的攀岩者 (•̀ᴗ•́)و  
+在代码、电路、毛选和山地车的交叉口，试图用“抽象”解构世界。  
+相信“仙尊悔，而我不悔” (ง •_•)ง
+```
+
+## 会亿点点 (◍•ᴗ•◍)
+
+| 领域 | 关键词 |
+| :--- | :--- |
+| **控制与嵌入式** | 状态机 · 信号链 · 实时逻辑 |
+| **机械与结构** | 运动学直觉 · 传动哲学 · 刚度匹配 |
+| **电路与调试** | 阻抗 · 噪声 · 地回路 · 故障辩证法 |
+| **算法与思维** | 拓扑直觉 · 矛盾分析 · 有限状态 |
+
+## 日常小确幸 (´▽`ʃ♡)
+
+- 读《毛选》找矛盾论的灵感  
+- 骑山地车冲直线，驯化不确定性  
+- 和朋友互丢“雷霆”梗，抽象又开心  
+- 在代码和硬件之间反复横跳，享受一次编译终身不悔  
+- 听Miku和米津玄师，从电子歌姬到八爷，脑内循环  
+- 看小说：《蛊真人》“仙尊悔而我不悔”、《我不是戏神》里找癫狂的共鸣
+
+## 原版内核（换个说法） (≧▽≦)
+
+- **OI / 算法**：享受用动态规划和图论拆解“雷霆”问题  
+- **嵌入式**：让代码与物理世界“短兵相接”，从传感器里读心跳  
+- **机械直觉**：痴迷于从拓扑结构到液压传动的运动逻辑  
+- **骑行**：风阻、功率、以及和山路的悄悄话  
+- **歌单**：Miku的电子音覆盖整个自习室，米津玄师的低音是深夜骑车bgm  
+- **书架**：《蛊真人》常看常新，《我不是戏神》等更新的日子里反复重温
+
+## 自己写的半片词 (｡•́︿•̀｡)
+
+> 落魄谷中寒风吹，春秋蝉鸣少年归。  
+> 三年寒窗无人闻，  
+> 谁人问，少年志凌云。
+
+## 最后 (๑•̀ㅂ•́)و✧
+
+代码可以fork，思想可以碰撞，但我的“不悔”闭源。
 
 ---
 
-## 👨‍💻 About Me / 关于我
-### Core Identity / 核心标签
-- **OI Enthusiast** / OI爱好者：C++是本命语言，深耕算法基础（DP还在疯狂刷题ing），刷题必循环Kenshi的《Lemon》
-- **MCU Developer** / 单片机开发者：精通Arduino/ESP32开发，熟练玩转传感器（DHT11/BMP280）与通信协议（I2C/SPI/UART）
-- **Multi-Fan** / 双厨狂喜：2023年入坑初音，2024年迷上米津玄师，周边堆满书桌，海报贴满墙面
-- **Leisure Geek** / 休闲玩家：红石电路爱好者（已搭建4位加法器），FPS菜鸡但爱刚枪，科幻小说重度依赖者
-
-### Hobbies in Detail / 爱好详情
-<details>
-<summary>🔍 Click to expand / 点击展开</summary>
-
-#### 🖥️ Coding / 写代码
-- **Main Language** / 主力语言：C++（Dev-C++/Red-Panda C++常驻桌面，无需查文档就能撸代码）
-- **Side Languages** / 副业语言：Python/Java/Go（仅能写小脚本，写代码时一半时间在查语法）
-- **OI Focus** / OI方向：动态规划、图论，目标是拿下更多算法竞赛奖项
-
-#### 🛠️ MCU Development / 单片机开发
-- **Tools** / 工具：Arduino IDE（轻量化yyds）、示波器/逻辑分析仪/万用表（硬件调试三件套）
-- **Skills** / 技能：传感器集成、无线通信（NRF24L01）、OLED屏驱动
-- **Planned Projects** / 待做项目：Miku/Kenshi歌词显示屏、光感智能台灯、桌游计分器
-
-#### 🎮 Gaming / 游戏日常
-- **Sandbox** / 沙盒游戏：《我的世界》红石工程师，沉迷电路搭建，下一个目标是做红石计算器
-- **FPS** / 射击游戏：Valorant（黄金段位卡2个月）、CS2（只和朋友开黑，拒绝单排内耗）
-- **RTS** / 即时战略：《星际争霸2》虫族专精，只会爆小狗+刺蛇（运营全靠随缘）
-- **Gaming BGM** / 游戏BGM：Valorant必听《M 八七》，搭红石必放《打上花火》
-
-#### 📖 Reading / 阅读清单
-- **Favorite Genres** / 偏爱题材：科幻>玄幻>都市
-- **Finished Works** / 已读清单：《龙族》《道诡异仙》《三体》《沙丘》
-- **Reading BGM** / 阅读BGM：米津玄师慢歌（《アンコール》《月を追う真夜中》yyds）
-</details>
-
----
-
-## 🚀 Tech Stack / 技术栈
-### 💪 Proficient / 精通
-| Category / 分类       | Skills / 技能                                                                 |
-|-----------------------|-----------------------------------------------------------------------------|
-| Programming / 编程    | C++（OI算法）、Arduino/ESP32开发、传感器数据采集、通信协议调试                |
-| Tools / 工具          | Dev-C++、Red-Panda C++、Arduino IDE、示波器、逻辑分析仪、万用表              |
-| Hardware / 硬件       | Arduino UNO/ESP32/Nano、DHT11/BMP280/BH1750、OLED屏、NRF24L01模块            |
-
-### 📚 Basic Familiarity / 略懂
-| Category / 分类       | Skills / 技能                                                                 |
-|-----------------------|-----------------------------------------------------------------------------|
-| Programming / 编程    | Python（数据脚本）、Java（基础语法）、Go（简单项目）、JavaScript（前端片段）  |
-| Hardware / 硬件       | PCB设计（Altium Designer双层板）、电子元件焊接（热风枪拆焊）                  |
-| Tools / 工具          | VS Code（多语言开发）、Git（版本管理）、ST-Link（STM32烧录）                 |
-
-### 🧑‍💻 Code Snippet / 代码片段
-```cpp
-// OI + MCU = My Perfect Coding Vibe
-// 算法 + 单片机 = 我的理想编码氛围
-#include <iostream>
-#include <Arduino.h>
-
-using namespace std;
-
-int main() {
-    cout << "Coding with Kenshi's music on loop! 🎶" << endl;
-    // Initialize MCU sensor (example)
-    // 初始化单片机传感器（示例）
-    pinMode(A0, INPUT);
-    return 0;
-}
+*“仙尊悔，而我不悔。” —— 方源・蛊真人* (｡♥‿♥｡)
+```
